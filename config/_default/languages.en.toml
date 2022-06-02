@@ -16,7 +16,7 @@ attribution = false
  name = "Brian Ketelsen"
   image = "img/brian.jpg"
   headline = "Trained Professional. Do not attempt at home."
-  bio = "A little bit about you"
+  bio = "I'm a developer advocate, keynote speaker, author, open source practitioner. Welcome to my home on the web."
    links = [
      { email = "mailto:mail@bjk.fyi" },
   #   { link = "https://link-to-some-website.com/" },
@@ -58,5 +58,5 @@ attribution = false
      { twitch = "https://twitch.tv/bketelsen" },
      { twitter = "https://twitter.com/bketelsen" },
   #   { whatsapp = "https://wa.me/phone-number" },
-     { youtube = "https://youtube.com/username" },
+     { youtube = "https://youtube.com/bketelsen" },
    ]
