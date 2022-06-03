@@ -1,10 +1,8 @@
 ---
-title: "Liam"
-layout: post
-date: "2022-05-20"
-description: "My youngest child was born with Muenke Syndrome."
-
-lastmod: "2022-06-02T01:18:32.321Z"
+title: Liam
+date: 2022-05-20
+description: My youngest child was born with Muenke Syndrome.
+lastmod: 2022-06-03T08:48:53.672Z
 ---
 ## Living with Muenke Syndrome
 
@@ -37,3 +35,8 @@ We still have at least one more surgery in the foreseeable future and maybe more
 
 We're extremely grateful for the support that we've received from friends, family, and our extended Facebook, Twitter and Instagram communities. Thank you all so much for the gifts, words of encouragement, support, and prayers. Please know that this support means everything to us right now. The support groups we would traditionally rely on are mostly unavailable to us due to distance and Covid 19. We have no family that lives close.
 
+## Send Liam Some Cheer
+
+Many have asked how to support Liam, so we've created an Amazon Wish List for those who want to send him something. It's filled with books, educational toys and some items that would be useful to support Liam's unique needs.
+q
+ [{{< icon  "amazon" >}}  Liam's Wish List](https://www.amazon.com/hz/wishlist/ls/RX5BWOO4424G?ref_=wl_share)

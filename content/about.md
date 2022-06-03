@@ -1,8 +1,9 @@
 ---
-title: "About Me"
+title: About Me
 layout: post
-date: "2022-05-31"
-lastmod: "2021-12-13T01:18:32.321Z"
+date: 2022-05-31
+lastmod: 2022-06-03T09:03:04.040Z
+type: default
 ---
 
 {{< figure

@@ -1,18 +1,19 @@
 ---
-title: "Organizing Documents with Some AI, ML, and Elbow Grease"
+title: Organizing Documents with Some AI, ML, and Elbow Grease
 layout: post
-date: "2019-09-03"
+date: 2019-09-03
+description: Organizing my loose documents with some machine learning, cognitive services,
+  and elbow grease.
 aliases:
-    - /ai-ml-documents-one
-description: "Organizing my loose documents with some machine learning, cognitive services, and elbow grease."
+  - /ai-ml-documents-one
 tags:
-    - ai
-    - ml
-    - linux
-    - azure
+  - ai
+  - ml
+  - linux
+  - azure
 categories:
-    - Development
-lastmod: "2021-12-13T01:18:32.321Z"
+  - Development
+lastmod: 2022-06-03T09:38:58.544Z
 ---
 
 In this first post of (likely) a multi-part series I'm going to discuss how I am using machine learning, AI, and good old-fashioned elbow grease to make sense of the 3000 files in my `~/Documents/Unfiled` directory.
@@ -136,7 +137,7 @@ This is a very low-tech metadata database, of sorts. It's definitely not optimiz
 
 Keeping all the metadata in this format means I can write any number of other tools to read and modify the metadata without worrying too much.
 
-### Step Two
+#### Step Two
 
 At this point, I have a directory full of unprocessed files and a way to process them once and save the results so I don't have to re-process them later. It's time to fire off the processing app. I used [cobra](https://github.com/spf13/cobra) to build the command-line utility, so I made the root/naked command do the actual calls to Azure Cognitive Services:
 
