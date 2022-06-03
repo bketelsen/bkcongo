@@ -7,7 +7,7 @@ tags:
 - "debugging"
 - "windows"
 categories:
-- "Software"
+- "Development"
 - "Windows"
 ---
 

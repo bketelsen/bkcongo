@@ -2,11 +2,8 @@
 title: "Liam"
 layout: post
 date: "2022-05-20"
-aliases:
-    - /ai-ml-documents-one
-description: "Organizing my loose documents with some machine learning, cognitive services, and elbow grease."
-categories:
-    - Liam
+description: "My youngest child was born with Muenke Syndrome."
+
 lastmod: "2022-06-02T01:18:32.321Z"
 ---
 ## Living with Muenke Syndrome
