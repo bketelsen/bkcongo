@@ -38,5 +38,5 @@ We're extremely grateful for the support that we've received from friends, famil
 ## Send Liam Some Cheer
 
 Many have asked how to support Liam, so we've created an Amazon Wish List for those who want to send him something. It's filled with books, educational toys and some items that would be useful to support Liam's unique needs.
-q
+
  [{{< icon  "amazon" >}}  Liam's Wish List](https://www.amazon.com/hz/wishlist/ls/RX5BWOO4424G?ref_=wl_share)
