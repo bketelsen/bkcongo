@@ -14,6 +14,7 @@ tags:
 categories:
   - Development
 lastmod: 2022-06-03T09:38:58.544Z
+type: default
 ---
 
 In this first post of (likely) a multi-part series I'm going to discuss how I am using machine learning, AI, and good old-fashioned elbow grease to make sense of the 3000 files in my `~/Documents/Unfiled` directory.
@@ -21,10 +22,6 @@ In this first post of (likely) a multi-part series I'm going to discuss how I am
 <!--more-->
 
 ### The Problem Statement
-
-{{< alert skull-crossbones >}}
-**Warning!** This action is destructive!
-{{< /alert >}}
 
 
 

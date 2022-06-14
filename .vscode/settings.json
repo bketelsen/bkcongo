@@ -1,6 +1,0 @@
-{
-    "frontMatter.preview.host": "http://localhost:1313",
-    "frontMatter.framework.startCommand": "hugo server -D",
-    "frontMatter.framework.id": "hugo",
-    "frontMatter.content.publicFolder": "static"
-}

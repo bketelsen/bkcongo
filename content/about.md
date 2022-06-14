@@ -10,7 +10,7 @@ type: default
     src="/brian.jpg"
     alt="Brian holding a stuffed gopher plushie"
     caption="MC work at GopherCon"
-    >}}
+>}}
 <p>
 	Howdy! Thanks for stopping by. I&apos;m Brian Ketelsen, and I&apos;ve been doing
 	technology things since <a href="https://en.wikipedia.org/wiki/Acoustic_coupler">acoustic modem couplers</a> were a thing. I love Open Source and

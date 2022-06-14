@@ -1,27 +1,5 @@
 {
-  "$schema": "https://beta.frontmatter.codes/frontmatter.schema.json",
-  "frontMatter.content.publicFolder": "static",
-  "frontMatter.framework.id": "hugo",
-  "frontMatter.framework.startCommand": "hugo server -D",
-  "frontMatter.preview.host": "http://localhost:1313",
-  "frontMatter.content.pageFolders": [
-    {
-      "title": "posts",
-      "path": "[[workspace]]/content/posts"
-    },
-    {
-      "title": "elsewhere",
-      "path": "[[workspace]]/content/elsewhere"
-    },
-    {
-      "title": "bytes",
-      "path": "[[workspace]]/content/bytes"
-    },
-    {
-      "title": "projects",
-      "path": "[[workspace]]/content/projects"
-    }
-  ],
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
@@ -30,8 +8,7 @@
         {
           "title": "title",
           "name": "title",
-          "type": "string",
-          "single": true
+          "type": "string"
         },
         {
           "title": "layout",
@@ -41,8 +18,7 @@
         {
           "title": "date",
           "name": "date",
-          "type": "datetime",
-          "default": "{{now}}"
+          "type": "datetime"
         },
         {
           "title": "description",
@@ -67,13 +43,14 @@
         {
           "title": "draft",
           "name": "draft",
-          "type": "boolean"
+          "type": "datetime"
         },
         {
           "title": "summary",
           "name": "summary",
           "type": "string"
         }
+
       ]
     },
     {

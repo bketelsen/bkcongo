@@ -12,6 +12,12 @@ lastmod: 2022-03-07T08:54:37.444Z
 
 Emoji is supported throughout Congo by default. Emoji can be used in titles, menu items and article content.
 
+{{< alert skull-crossbones >}}
+**Warning!** This action is destructive!
+{{< /alert >}}
+
+
+
 {{< alert >}}
 **Note:** The rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack.
 {{< /alert >}}
