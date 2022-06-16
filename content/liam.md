@@ -2,11 +2,12 @@
 title: Liam
 date: 2022-05-20
 description: My youngest child was born with Muenke Syndrome.
-lastmod: 2022-06-03T08:48:53.672Z
+lastmod: 2022-06-16T19:14:56.001Z
 ---
-## Living with Muenke Syndrome
 
-### Background
+<img src="/liamsjourney.svg" alt="Liam's Journey" />
+
+## Living with Muenke Syndrome
 
 After an ultrasound, x-ray and CT scan, Liam was diagnosed with bicoronal craniosynostosis at one month old. We didn’t know his craniosynostosis was caused by Muenke Syndrome until Liam was six months old. Muenke Syndrome is characterized by craniosynostosis (the premature fusion of one or more skull sutures), hearing loss and developmental delays. Soon after the diagnosis, we met with our pediatric plastic surgeon and neurosurgeon to discuss how they were going to correct Liam’s craniosynostosis. The biggest concern with any craniosynostosis diagnosis is the lack of room for a child’s brain to grow.
 
