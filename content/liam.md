@@ -3,9 +3,11 @@ title: Liam
 date: 2022-05-20
 description: My youngest child was born with Muenke Syndrome.
 lastmod: 2022-06-16T19:14:56.001Z
+showDate: false
+showReadingTime: false
 ---
 
-<img src="/liamsjourney.svg" alt="Liam's Journey" />
+<img src="/liamsjourney.png" alt="Liam's Journey" />
 
 ## Living with Muenke Syndrome
 
@@ -38,6 +40,15 @@ We're extremely grateful for the support that we've received from friends, famil
 
 ## Send Liam Some Cheer
 
-Many have asked how to support Liam, so we've created an Amazon Wish List for those who want to send him something. It's filled with books, educational toys and some items that would be useful to support Liam's unique needs.
+Many have asked how to support Liam, so we've created an [Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/RX5BWOO4424G?ref_=wl_share) for those who want to send him something. It's filled with books, educational toys and some items that would be useful to support Liam's unique needs.
 
  [{{< icon  "amazon" >}}  Liam's Wish List](https://www.amazon.com/hz/wishlist/ls/RX5BWOO4424G?ref_=wl_share)
+
+![Liam](/IMG_19852.JPG "June 2021 - visible ridge above his forehead where the skull should be stretching, but isn't.")
+
+![Liam](/IMG_2237.jpg "Nov 2021 - clear side profile showing how the back of the skull isn't growing out, but instead the top is.")
+
+![Liam](/IMG_0861.jpg "Dec 2021 - recovery from the Posterior Vault Distraction surgery.")
+
+
+![Liam](/IMG_4218.jpg "May 2022 - head shape looks great now, right side not healing")

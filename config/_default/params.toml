@@ -8,13 +8,15 @@
 colorScheme = "ocean"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
-showAppearanceSwitcher = true
 
 enableSearch = true
 enableCodeCopy = true
 
 mainSections = ["posts","elsewhere","bytes"]
 # robots = ""
+
+[footer]
+showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]

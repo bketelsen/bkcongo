@@ -5,6 +5,9 @@ date: '2020-03-03'
 aliases:
     - /ssh-to-wsl2
 description: A Series on Using Windows for Open Source Development
+images:
+    - /posts/ssh-to-wsl2/cdc-_XLJy3h77cw-unsplash.jpg
+
 tags:
     - windows
     - linux
